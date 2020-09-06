@@ -1,0 +1,16 @@
+C:/Users/rober/source/repos/bfs-task/bfs-task/bin/Debug/bfs-task.exe.config
+C:/Users/rober/source/repos/bfs-task/bfs-task/bin/Debug/bfs-task.exe
+C:/Users/rober/source/repos/bfs-task/bfs-task/bin/Debug/bfs-task.pdb
+C:/Users/rober/source/repos/bfs-task/bfs-task/obj/Debug/bfs-task.csprojAssemblyReference.cache
+C:/Users/rober/source/repos/bfs-task/bfs-task/obj/Debug/bfs-task.csproj.CoreCompileInputs.cache
+C:/Users/rober/source/repos/bfs-task/bfs-task/obj/Debug/bfs-task.exe
+C:/Users/rober/source/repos/bfs-task/bfs-task/obj/Debug/bfs-task.pdb
+C:/Users/rober/source/repos/bfs-task/bfs-task/bin/Debug/pyramid.txt
+/Users/markozivko/Desktop/bfs-task/bfs-task/obj/Debug/bfs-task.csprojAssemblyReference.cache
+/Users/markozivko/Desktop/bfs-task/bfs-task/obj/Debug/bfs-task.csproj.CoreCompileInputs.cache
+/Users/markozivko/Desktop/bfs-task/bfs-task/obj/Debug/bfs-task.exe
+/Users/markozivko/Desktop/bfs-task/bfs-task/obj/Debug/bfs-task.pdb
+/Users/markozivko/Desktop/bfs-task/bfs-task/bin/Debug/pyramid.txt
+/Users/markozivko/Desktop/bfs-task/bfs-task/bin/Debug/bfs-task.exe.config
+/Users/markozivko/Desktop/bfs-task/bfs-task/bin/Debug/bfs-task.exe
+/Users/markozivko/Desktop/bfs-task/bfs-task/bin/Debug/bfs-task.pdb
